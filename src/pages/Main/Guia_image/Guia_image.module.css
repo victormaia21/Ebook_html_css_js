@@ -1,0 +1,5 @@
+.image{
+    display: grid;
+    justify-content: center;
+    background: rgba(25, 98, 110, 0.801);
+}

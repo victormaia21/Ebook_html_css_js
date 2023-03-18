@@ -1,0 +1,14 @@
+.article {
+    text-align: center;
+    padding: 4em 0 0 0;
+    color: white;
+    
+    background: rgba(25, 98, 110, 0.801);
+}
+.article h1{
+    font-size: 2.3em;
+}
+.article p{
+    font-size: 1.3em;
+    margin-top: 1em;
+}

@@ -1,0 +1,42 @@
+.div{
+    background: rgba(25, 98, 110, 0.801);
+    padding: 3em 0 2em 0;
+}
+.form{
+    background: #ddd;
+    width: 90%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 2em 0 2.25em 0;
+}
+.form .article p{
+    margin-top: .9em;
+}
+.form div{
+    display: grid;
+    width: 90%;
+    margin: 1em auto 1em;
+}
+.form input[type="email"],input[type="number"]{
+    border: none;
+    height: 2.5em;
+    margin-top: .3em;
+    font-size: 1em;
+    padding: 0 0 0 .5em;
+    font-weight: bold;
+}
+.form p, .form h2, .form label{
+    color: #666;
+}
+.form div a{
+    color: #666;
+}
+.form button{
+    background: orange;
+    color: white;
+    border: none;
+    font-weight: bold;
+    font-size: 1.4em;
+    padding: .6em 0;
+    cursor: pointer;
+}

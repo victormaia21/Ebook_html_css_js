@@ -1,0 +1,20 @@
+.section_ {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 1.5em 0;
+    color: #777;
+}
+.section_ article h3{
+    font-weight: normal;
+    margin-top: .5em;
+    font-size: 1.1em;
+}
+.section_ article p{
+    margin-top: .5em;
+    font-size: 1em;
+}
+.section_ article p a{
+    color: blue;
+}
